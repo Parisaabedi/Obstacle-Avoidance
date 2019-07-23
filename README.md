@@ -13,3 +13,5 @@ In order to generate the figures of the paper, follow these steps:
 5 - Run DataAnalysisandPlotting to generate the figures used in the paper
 
 The statistical analysis has been performed by JASP software (https://jasp-stats.org/) and saved. 
+
+If you have any questions or suggestions to make the code more readable please shoot me an email at 0kpa@queensu.ca .
