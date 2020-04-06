@@ -1,5 +1,5 @@
 # Obstacle Avoidance
-This repository contains the data analysis codes and statistical analysis files for the following paper:
+This repository contains the data analysis codes and statistical analysis files for the following paper: https://www.biorxiv.org/content/10.1101/706317v1
 
 The data can be find on the OSF website at the following link:
 https://osf.io/tf8p5/
